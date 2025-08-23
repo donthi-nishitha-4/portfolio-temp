@@ -1,0 +1,63 @@
+
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    font-size: large;
+    margin: 0;
+    padding: 0;
+    background: peachpuff;
+    color: #333;
+    line-height: 1.6;
+    text-align: center;
+  }
+  
+  h1, h2 {
+    margin: 20px 0;
+  }
+  
+
+  .header img {
+    width: 100%;          
+    max-width: 800px;    
+    height: auto;         
+    display: block;       
+    margin: 0 auto;       
+    border-radius: 8px;   
+}
+
+.header-content {
+    margin-top: 20px;    
+}
+  
+  
+  section {
+    padding: 40px 20px;
+  }
+  
+  .projects ul, .socials ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .projects li, .socials li {
+    margin: 10px 0;
+  }
+  
+  .projects a, .socials a {
+    text-decoration: none;
+    color: #0077cc;
+    font-weight: bold;
+  }
+  
+  .projects a:hover, .socials a:hover {
+    color: #005999;
+    text-decoration: underline;
+  }
+  
+  .hobbies video {
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    margin-top: 20px;
+  }
+  
+  
+  
